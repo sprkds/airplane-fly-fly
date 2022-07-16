@@ -1,3 +1,4 @@
 git add {file} #adds a file to the git staging area
 git commit -m {Commit message} #Commits a file for push, needs commit message
 git push #pushes to git repository
+testing testing
